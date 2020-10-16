@@ -8,23 +8,8 @@ I developed these Google Scripts when I was working as Player Support Shift Lead
 <br /><br />
 The problem of this task was that PS Agents were told to do it only when they were done with the high priority tasks and sometimes, these tasks were taking all the time, causing the reviews to be left undone. These Scripts allowed me to keep an eye on Store Reviews - when the backlog was extremely long, we were taking the opportunity to recommend the Client to allow PS Agents do some overtime.
 <br /><br />
-In order for the Scripts to be used, a Spreadsheet has to be prepared. This Spreadsheet will have the following Sheets:<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Links</code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - EN</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - EN</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - SP</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - SP</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - FR</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - FR</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - IT</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - IT</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - RU</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - RU</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - CN_S</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - CN_S</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - PT</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - PT</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>Google Play Console - DE</code><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <code>App Store Connect - DE</code><br />
+In order for the Scripts to be used, a Spreadsheet has to be prepared. Considering how hard it's to prepare the Spreadsheet, I have included a template in the project's folder. Feel free to grab it and work from there.<br />
+
+
 
 
